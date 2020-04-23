@@ -1,4 +1,4 @@
-package gestion_empresa;
+package gestion_empresas;
 
 public class Main {
 
